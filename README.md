@@ -6,7 +6,7 @@ Computer Science Arts Student
 - 👯‍♂️ I’m looking to collaborate on React/Angular
 - 🤔 I'm looking for help with Placements in FAANG
 - 📫 How to reach me :
-- <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bharath-s-36420b297/)
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bharath-s-36420b297/)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I Know Japanese.
 
