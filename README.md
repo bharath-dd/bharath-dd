@@ -14,7 +14,7 @@ Computer Science Arts Student
 <img width="50" height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> <img width="50" height="50" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/> <img width="50" height="50" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
 
 ### IDE and Tools I use
-<img width="50" height="50" src="https://img.icons8.com/officel/40/java-eclipse.png" alt="java-eclipse"/> <img width="50" height="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
+<img width="50" height="50" src="https://img.icons8.com/officel/40/java-eclipse.png" alt="java-eclipse"/> <img width="50" height="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/> <img width="50" height="50" src="https://img.icons8.com/color/48/git.png" alt="git"/>
 
 <!---
 bharath-dd/bharath-dd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
